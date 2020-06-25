@@ -1,0 +1,30 @@
+.qno-wrapper{
+    margin-left: 300px;
+}
+.qno-heading{
+    color: #000033;
+}
+.qno-category{
+    margin-top: -19px;
+    color: #4d4d4d;
+}
+.qno-question{
+    width: 600px;
+    color: #4d4d4d;
+    font-size: 22px;
+    font-weight: 400;
+}
+.qno-answer{
+    margin-left: 56px;
+    font-size: 25px;
+    color: #000033;
+}
+.next-question{
+    width: 200px;
+    padding: 8px;
+    border: 1px solid;
+    border-radius: 5px;
+    margin-left: 40px;
+    background-color:#000033;
+    color:white
+}

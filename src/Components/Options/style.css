@@ -1,0 +1,10 @@
+.option{
+    width: 300px;
+    border-radius: 7px;
+    padding: 9px;
+    border: 1px;
+    color: white;
+    /* background-color: #1a1aff !important; */
+    margin-top: 15px;
+    margin-right: 400px;
+}
